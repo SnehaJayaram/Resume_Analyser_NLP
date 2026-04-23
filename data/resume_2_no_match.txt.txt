@@ -1,0 +1,6 @@
+Jane Smith
+Email: jane.smith@email.com
+Summary: Experienced Accountant with 5 years in financial auditing.
+Skills: Microsoft Excel, Tally, Financial Reporting, Tax Filing.
+Experience: Managed accounts for a mid-sized retail firm.
+Education: Bachelor of Commerce.

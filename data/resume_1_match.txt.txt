@@ -1,0 +1,6 @@
+John Doe
+Email: john.doe@email.com | GitHub: github.com/johndoe
+Summary: Computer Science graduate with a focus on AI and NLP.
+Skills: Python, Java, SQL, NLTK, SpaCy, TensorFlow.
+Experience: Developed a Leaf Disease Detection system using CNN. 
+Education: B.Tech in Computer Science Engineering.
