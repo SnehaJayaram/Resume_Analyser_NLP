@@ -11,17 +11,6 @@ By leveraging **Vector Space Modeling**, this tool mathematically calculates the
 
 ---
 
-## 📊 Visual Proof of Logic
-### 1. Candidate Similarity Ranking
-![Similarity Scores](./assets/similarity_score_chart.png)
-*How well does each candidate align with the Job Description? Our Cosine Similarity engine provides a definitive match percentage.*
-
-### 2. Automated Skill Distribution
-![Skill Distribution](./assets/skill_distribution.png)
-*A macro-view of the talent pool, showing which technical skills are most prevalent across all applicants.*
-
----
-
 ## 🧠 Technical Workflow
 This system follows a professional NLP pipeline:
 1. **Text Extraction:** Using `PyPDF2` to handle unstructured PDF data.
